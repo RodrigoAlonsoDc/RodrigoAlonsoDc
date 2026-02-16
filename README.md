@@ -32,7 +32,6 @@ Soy estudiante de Ingeniería Informática . Soy bueno en C#, Python, Javascript
 - Node.js
 - 👯 Me entusiasma colaborar en proyectos de código abierto.
 - ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte, ¡solo si la pelota está de mi lado! 😉<br>
-- Fuera de la tecnología, 📖 me encanta leer novelas, 🖌️ pintar y dibujar, 🎵 escuchar música y 🌴 explorar la naturaleza al aire libre. - 📫 Comuníquese conmigo en: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 <!--Intro start-->
 - 🔭 Actualmente estoy trabajando en AWS, React, React Native, Nodejs, MongoDB**
 
