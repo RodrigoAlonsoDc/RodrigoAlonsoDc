@@ -23,7 +23,16 @@
   </ul>
 </div>
 
-
+Soy estudiante de Ingeniería Informática . Soy bueno en C#, Python, Javascript, HTML . Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.
+* **Me interesa el diseño web, el desarrollo de Android , Diseño Grafico y el marketing digital**
+- 🌱 Actualmente estoy aprendiendo...
+- Java
+- React.js
+- Laravel
+- Node.js
+- 👯 Me entusiasma colaborar en proyectos de código abierto.
+- ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte, ¡solo si la pelota está de mi lado! 😉<br>
+- Fuera de la tecnología, 📖 me encanta leer novelas, 🖌️ pintar y dibujar, 🎵 escuchar música y 🌴 explorar la naturaleza al aire libre. - 📫 Comuníquese conmigo en: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 <!--Intro start-->
 - 🔭 Actualmente estoy trabajando en AWS, React, React Native, Nodejs, MongoDB**
 
@@ -91,12 +100,6 @@
 
 
 <!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
 
 <!--icons and links-->
 <p align="center">
