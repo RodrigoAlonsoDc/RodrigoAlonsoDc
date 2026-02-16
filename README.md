@@ -123,27 +123,7 @@ Soy estudiante de Ingeniería Informática . Soy bueno en C#, Python, Javascript
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Hi there 👋, Bhargavi here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
-Soy estudiante de Ingeniería Informática . Soy bueno en C#, Python, Javascript, HTML . Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.
-* **Me interesa el diseño web, el desarrollo de Android , Diseño Grafico y el marketing digital**
-- 🌱 Actualmente estoy aprendiendo...
-- Java
-- React.js
-- Laravel
-- Node.js
-- 👯 Me entusiasma colaborar en proyectos de código abierto.
-- ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte, ¡solo si la pelota está de mi lado! 😉<br>
-- Fuera de la tecnología, 📖 me encanta leer novelas, 🖌️ pintar y dibujar, 🎵 escuchar música y 🌴 explorar la naturaleza al aire libre. - 📫 Comuníquese conmigo en: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
 __Check out my GitHub repository:__
 
