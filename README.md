@@ -131,15 +131,16 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+Soy estudiante de Ingeniería Informática . Soy bueno en C#, Python, Javascript, HTML . Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.
+* **Me interesa el diseño web, el desarrollo de Android , Diseño Grafico y el marketing digital**
+- 🌱 Actualmente estoy aprendiendo...
+- Java
+- React.js
+- Laravel
+- Node.js
+- 👯 Me entusiasma colaborar en proyectos de código abierto.
+- ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte, ¡solo si la pelota está de mi lado! 😉<br>
+- Fuera de la tecnología, 📖 me encanta leer novelas, 🖌️ pintar y dibujar, 🎵 escuchar música y 🌴 explorar la naturaleza al aire libre. - 📫 Comuníquese conmigo en: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
 __Check out my GitHub repository:__
 
