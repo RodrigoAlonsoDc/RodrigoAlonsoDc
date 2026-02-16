@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
        alt="snake" /></a>
 </div>
 
