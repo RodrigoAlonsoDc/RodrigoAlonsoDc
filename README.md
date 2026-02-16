@@ -137,7 +137,5 @@ Soy estudiante de Ingeniería Informática . Soy bueno en C#, Python, Javascript
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
